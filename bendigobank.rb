@@ -7,7 +7,7 @@ require_relative 'account'
  
 class BendigoBank
   include Helpers
-  attr_reader :browser, :accounts
+  attr_accessor :browser, :accounts
  
   def initialize
     @browser = Watir::Browser.new :chrome
@@ -94,7 +94,9 @@ class BendigoBank
     end
  
     accounts_info = { accounts: parsed_accounts }
-    puts JSON.pretty_generate(accounts_info)
+    File.open("data.txt", "w") do |info|
+      info.write(JSON.pretty_generate(accounts_info))
+    end
   end
  
   def select_2_month_transactions
@@ -128,7 +130,7 @@ class BendigoBank
     balance_text = account_info.css("[data-semantic='header-current-balance']").text
     balance = parse_curreny_and_balance(balance_text).last
     currency = parse_curreny_and_balance(balance_text).first
- 
+
     Account.new(
       name: account_info.css("[data-semantic='account-name']").text,
       currency: currency,

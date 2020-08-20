@@ -1,0 +1,373 @@
+{
+  "accounts": [
+    {
+      "name": "Demo Everyday Account",
+      "currency": "USD",
+      "balance": 2109.9,
+      "nature": "account",
+      "transactions": [
+        {
+          "date": "2020-08-18",
+          "description": "PaidFrom: Demo Everyday Account. toTo: Demo My Mastercard.$10.00$10.00",
+          "amount": 10.0,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-08-15",
+          "description": "Oporto.",
+          "amount": 49.92,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-08-16",
+          "description": "PaidTo: Demo My Mastercard.$260.00$260.00",
+          "amount": 260.0,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-08-14",
+          "description": "paidTJTimothy Jones$12.00",
+          "amount": -12.0,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-08-12",
+          "description": "Withdrawal - ATM.",
+          "amount": 100.0,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-08-11",
+          "description": "Salary.",
+          "amount": 4.0,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-08-10",
+          "description": "Oporto.",
+          "amount": 46.38,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-08-08",
+          "description": "ALDI.",
+          "amount": 57.34,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-08-09",
+          "description": "PaidFrom: Demo Everyday Account. toTo: Demo My Mastercard.$34.00$34.00",
+          "amount": 34.0,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-08-06",
+          "description": "JB Hi-Fi.",
+          "amount": 91.65,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-08-07",
+          "description": "rejectedTJTimothy Jones$13.00",
+          "amount": 13.0,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-08-04",
+          "description": "Dick Smith.",
+          "amount": 85.52,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-07-31",
+          "description": "PaidFrom: Demo Everyday Account. toTo: Demo My Mastercard.$22.00$22.00",
+          "amount": 22.0,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-07-29",
+          "description": "paidEnergyAustralia$302.33",
+          "amount": -302.33,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-07-27",
+          "description": "Oporto.",
+          "amount": 69.58,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-07-26",
+          "description": "Bakers Delight.",
+          "amount": 85.49,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-07-25",
+          "description": "paidFOXTEL$69.95",
+          "amount": -69.95,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-07-24",
+          "description": "rejectedTJTimothy Jones$15.00",
+          "amount": 15.0,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-07-22",
+          "description": "Kmart.",
+          "amount": 15.95,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-07-22",
+          "description": "PaidFrom: Demo Everyday Account. toTo: Demo My Mastercard.$40.00$40.00",
+          "amount": 40.0,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-07-18",
+          "description": "Withdrawal - ATM.",
+          "amount": 100.0,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-07-17",
+          "description": "Withdrawal - ATM.",
+          "amount": 150.0,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-07-17",
+          "description": "paidTJTimothy Jones$16.00",
+          "amount": -16.0,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        },
+        {
+          "date": "2020-07-15",
+          "description": "Optus.",
+          "amount": 12.65,
+          "currency": "USD",
+          "account_name": "Demo Everyday Account"
+        }
+      ]
+    },
+    {
+      "name": "Demo My Mastercard",
+      "currency": "USD",
+      "balance": -411.96,
+      "nature": "account",
+      "transactions": [
+        {
+          "date": "2020-08-18",
+          "description": "Woolworths.",
+          "amount": 135.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-08-18",
+          "description": "PaidFrom: Demo Everyday Account. toTo: Demo My Mastercard.$10.00$10.00",
+          "amount": 10.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-08-16",
+          "description": "PaidTo: Demo My Mastercard.$190.00$190.00",
+          "amount": 190.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-08-16",
+          "description": "PaidTo: Demo My Mastercard.$260.00$260.00",
+          "amount": 260.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-08-11",
+          "description": "Woolworths.",
+          "amount": 91.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-08-09",
+          "description": "PaidFrom: Demo Everyday Account. toTo: Demo My Mastercard.$34.00$34.00",
+          "amount": 34.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-08-04",
+          "description": "Oporto.",
+          "amount": 124.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-07-31",
+          "description": "PaidFrom: Demo Everyday Account. toTo: Demo My Mastercard.$22.00$22.00",
+          "amount": 22.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-07-28",
+          "description": "Caltex.",
+          "amount": 110.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-07-21",
+          "description": "ALDI.",
+          "amount": 82.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-07-16",
+          "description": "PaidTo: Demo My Mastercard.$100.00$100.00",
+          "amount": 100.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-07-14",
+          "description": "Bunnings Warehouse.",
+          "amount": 98.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-07-13",
+          "description": "PaidFrom: Demo Everyday Account. toTo: Demo My Mastercard.$15.00$15.00",
+          "amount": 15.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-07-08",
+          "description": "paidADAngelina Becker DVM$28.84",
+          "amount": -28.84,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-07-07",
+          "description": "JB Hi-Fi.",
+          "amount": 134.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-07-04",
+          "description": "PaidFrom: Demo Everyday Account. toTo: Demo My Mastercard.$24.00$24.00",
+          "amount": 24.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-06-30",
+          "description": "Qantas.",
+          "amount": 144.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-06-28",
+          "description": "Telegraphic Transfer Fee.",
+          "amount": 20.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        },
+        {
+          "date": "2020-06-25",
+          "description": "PaidFrom: Demo Everyday Account. toTo: Demo My Mastercard.$24.00$24.00",
+          "amount": 24.0,
+          "currency": "USD",
+          "account_name": "Demo My Mastercard"
+        }
+      ]
+    },
+    {
+      "name": "Demo Home Loan",
+      "currency": "USD",
+      "balance": -264321.8,
+      "nature": "account",
+      "transactions": [
+        {
+          "date": "2020-08-19",
+          "description": "Repayment.",
+          "amount": 1.0,
+          "currency": "USD",
+          "account_name": "Demo Home Loan"
+        },
+        {
+          "date": "2020-07-31",
+          "description": "Interest.",
+          "amount": 964.77,
+          "currency": "USD",
+          "account_name": "Demo Home Loan"
+        },
+        {
+          "date": "2020-07-19",
+          "description": "Repayment.",
+          "amount": 1.0,
+          "currency": "USD",
+          "account_name": "Demo Home Loan"
+        },
+        {
+          "date": "2020-06-30",
+          "description": "Interest.",
+          "amount": 964.77,
+          "currency": "USD",
+          "account_name": "Demo Home Loan"
+        },
+        {
+          "date": "2020-06-19",
+          "description": "Repayment.",
+          "amount": 1.0,
+          "currency": "USD",
+          "account_name": "Demo Home Loan"
+        }
+      ]
+    },
+    {
+      "name": "Demo Term Deposit",
+      "currency": "USD",
+      "balance": 99999.0,
+      "nature": "account",
+      "transactions": [
+
+      ]
+    }
+  ]
+}
